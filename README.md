@@ -5,7 +5,7 @@ There are 2 big steps to complete this project:
   1. 3d design , print and build
   2. softwear desing and code
 
-##**Build**
+## **Build**
 For the 3d design most of the file come from the plen project but they are all modified to be able to adapt well to European parts (servomotors).Some pieces are made by hand.
 This step are done and the little robot is built.
 We are using this electronic card and this servomotors. 
@@ -14,7 +14,7 @@ We are using this electronic card and this servomotors.
 
 For the print we are using a bambulab P1S with some pla. 
 
-##**Softwear**
+## **Softwear**
 
 This part is not finished yet we are just starting to work on.
 
@@ -22,5 +22,5 @@ This part is not finished yet we are just starting to work on.
 
 
 
-##**Usefull link: **
+## **Usefull link: **
 * ***[Project Plen2](https://github.com/plenprojectcompany/PLEN2)***
