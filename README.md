@@ -1,4 +1,4 @@
-### LittleRobot
+# **LittleRobot**
 This project is a little controled robot
 
 There are 2 big steps to complete this project: 
