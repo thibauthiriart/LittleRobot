@@ -1,0 +1,7 @@
+1.C_test is C Language,compiling with GCC.
+
+2.Python_test is python3.
+Install pyserial:
+	pip3 install pyserial
+Run the Python_test.python:
+	python3 Python_test.python

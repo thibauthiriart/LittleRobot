@@ -1,0 +1,5 @@
+1.Read the documentation to build the development environment
+	https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/
+2.Change wifi ssid and password.
+3.compilation process（make）
+4.Download program(make flash)
